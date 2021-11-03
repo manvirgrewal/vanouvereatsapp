@@ -7,9 +7,10 @@ run expo start
 
 scan the expo qr code with your phone and run in the expo go app, enjoy!
 
-![IMG_4483](https://user-images.githubusercontent.com/3681651/140056068-83f9bc1f-cd4c-4855-9b08-94e1138cf580.PNG)
-![IMG_4484](https://user-images.githubusercontent.com/3681651/140056061-888a5889-f812-406c-8ad9-580bcb1258df.PNG)
-![IMG_4482](https://user-images.githubusercontent.com/3681651/140056074-765c2135-2e8d-49cb-8ba4-63c6b31d2492.PNG)
+![IMG_4484](https://user-images.githubusercontent.com/3681651/140056189-791c487d-7e02-4c59-ad7d-db7d118e6d84.PNG)
+![IMG_4483](https://user-images.githubusercontent.com/3681651/140056195-ef693ab4-30a8-44dd-abd0-dbeea5c0e3da.PNG)
+![IMG_4482](https://user-images.githubusercontent.com/3681651/140056198-b9ddfeea-0da3-43c6-aa16-dd8ddf0470ff.PNG)
+
 
 
 
