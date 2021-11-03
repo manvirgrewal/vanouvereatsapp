@@ -1,11 +1,13 @@
 # vanouvereatsapp
 A yelp powered cost sorted restaurant finder for the vancouver area - made with expo, react native, axios, babel and the yelp api
 
-cd into the main "food" directory
+instructions:
 
-run expo start 
+- cd into the main "food" directory
 
-scan the expo qr code with your phone and run in the expo go app, enjoy!
+- run expo start 
+
+- scan the expo qr code with your phone and run in the expo go app, enjoy!
 
 screenshots from my iphone X: 
 
