@@ -7,7 +7,8 @@ run expo start
 
 scan the expo qr code with your phone and run in the expo go app, enjoy!
 
-![vancouver eats app primary screen](https://user-images.githubusercontent.com/3681651/140055269-e09c2638-d129-403c-a09b-79a06d1836cd.PNG)
-![vancouver eats app search](https://user-images.githubusercontent.com/3681651/140055314-181701d0-6aa0-4d07-b86c-779004dcb839.PNG)
-![vancouver eats app pasta search results](https://user-images.githubusercontent.com/3681651/140055331-42bb6eab-3862-455d-a307-8cd4822f1434.PNG)
+![IMG_4484](https://user-images.githubusercontent.com/3681651/140055834-7499d01b-a029-4702-a3c1-62a786025928.PNG)
+![IMG_4483](https://user-images.githubusercontent.com/3681651/140055840-adc954c9-6d27-47d3-a54b-38ee54121f7b.PNG)
+![IMG_4482](https://user-images.githubusercontent.com/3681651/140055845-3d458bcc-a7d2-45f8-9974-975d9e924ffa.PNG)
+
 
